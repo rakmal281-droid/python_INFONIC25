@@ -1,0 +1,30 @@
+"RAMADHAN_PYTHON.txt"
+
+*"Introduction to Figma" oleh INFONIC*:
+
+Presentasi ini memberikan pengenalan dasar mengenai Figma, sebuah platform desain yang populer, yang ditujukan untuk pemula.
+
+*1. Apa itu Figma?*
+* Figma adalah alat desain berbasis cloud (dapat diakses melalui browser atau aplikasi desktop).
+* Fungsi utamanya adalah untuk desain antarmuka pengguna (UI/UX), membuat prototipe interaktif, dan kolaborasi tim.
+
+*2. Mengapa Memilih Figma?*
+* *Kolaborasi Real-Time:* Beberapa pengguna bisa mengerjakan satu file desain secara bersamaan, mirip seperti Google Docs.
+* *Aksesibilitas:* Dapat digunakan di berbagai sistem operasi (Mac, Windows, Linux) hanya dengan browser.
+* *Platform All-in-One:* Mencakup semua proses mulai dari desain, pembuatan prototipe, hingga penyerahan aset ke developer dalam satu aplikasi.
+* *Riwayat Versi (Version History):* Semua perubahan disimpan secara otomatis dan dapat diakses kembali dengan mudah.
+* *Komunitas Besar:* Tersedia banyak plugin dan file gratis dari komunitas untuk mempercepat alur kerja.
+
+*3. Fitur-fitur Utama Figma*
+* *Fitur Desain:* Memiliki alat canggih seperti Vector Networks, Auto Layout (untuk desain responsif), dan Components (untuk elemen desain yang dapat digunakan kembali).
+* *Fitur Prototyping:* Memungkinkan pembuatan simulasi aplikasi atau website yang interaktif dengan fitur seperti Smart Animate.
+* *FigJam:* Papan tulis digital (online whiteboard) untuk sesi brainstorming dan kolaborasi ide.
+* *Developer Handoff:* Developer dapat dengan mudah memeriksa spesifikasi desain (ukuran, warna, kode CSS/iOS/Android) melalui mode Inspect.
+
+*4. Cara Memulai (Getting Started)*
+* Langkah pertama adalah membuat akun Figma.
+* Mengenal antarmuka dasar: Canvas (area kerja), Layers Panel (panel lapisan), Properties Panel (panel properti), dan Toolbar.
+* Mencoba membuat desain sederhana dengan frame, bentuk (shapes), dan teks.
+* Mengeksplorasi tab *Community* untuk mencari inspirasi dan sumber daya gratis.
+
+Secara keseluruhan, presentasi ini menjelaskan bahwa Figma adalah alat yang kuat, fleksibel, dan sangat berfokus pada kolaborasi, menjadikannya pilihan utama bagi desainer UI/UX modern.
